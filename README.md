@@ -17,7 +17,7 @@
 ## 入口相關
 - [單一入口](https://portal.nctu.edu.tw/portal/login.php)
 - [社團入口](https://clubportal.nctu.edu.tw/bulletins)
-- [在校生分眾導覽](https://www.nctu.edu.tw/student)
+- [交大網站導覽](https://www.nctu.edu.tw/sitemap)
 
 ## 課程相關
 
