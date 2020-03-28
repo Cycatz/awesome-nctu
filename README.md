@@ -1,7 +1,5 @@
 # Awesome NCTU
 
-
-
 一個蒐集與交大相關的網站或資源的彙整清單 
 
 ## 目錄
@@ -13,6 +11,10 @@
 - [文件申請相關](#申請相關)
 - [校園服務相關](#校園服務相關)
 - [軟體網路相關](#軟體網路相關)
+- [社群平臺相關](#社群平臺相關)
+- [工具服務相關](#工具服務相關)
+- [系所相關](#系所相關)
+	- [資訊工程學系](#資訊工程學系)
 
 ## 入口相關
 - [單一入口](https://portal.nctu.edu.tw/portal/login.php)
@@ -59,3 +61,35 @@
 ## 軟體網路相關
 - [交大宿舍網路認證](https://dorm.nctu.edu.tw)
 - [交大校園授權軟體服務網](https://ca.nctu.edu.tw/)
+ 
+## 社群平臺相關 
+- [交大學生聯合會](https://www.facebook.com/NCTUStudentUnion/)
+- [交大學生議會](https://www.facebook.com/NCTUSC)
+- [靠北交大](https://www.facebook.com/grumbleNCTU/)
+- [靠北交大2.0](https://www.facebook.com/xNCTU/)
+- [NCTU_TALK bbs看板](https://www.ptt.cc/bbs/NCTU_TALK/index.html)
+- [NCTU_TEACHER bbs看板](https://www.ptt.cc/bbs/NCTU-Teacher/index.html)
+
+## 工具服務相關
+- [NCTU.ME 免費網域服務](https://nctu.me/)
+- [E3 dump](https://github.com/mlouielu/e3dump)
+
+## 系所相關
+### 資訊工程學系
+#### 實用連結
+- [NCTU CS Course](https://hackmd.io/@calee/ByOm-sFue?type=view) 
+- [資夢](https://shaform.com/csdream/)
+- [資工系計中 NCTU CSCC](https://cscc.cs.nctu.edu.tw/)
+- [考古題系統](https://oldexam.csunion.nctu.me)
+- [考古題系統new](https://pastexam.csunion.nctu.me/)
+- [Formosa OJ](https://oj.nctu.me/)
+- [程式檢定CPE](http://gpe3.acm-icpc.tw/gpelogin.php)
+- [交大資工系學會](https://www.facebook.com/nctucs.assoc/)
+- [交大資工粉絲團](https://www.facebook.com/csnctu/)
+
+#### 課程心得 
+
+- [空架子](https://kaiiiz.wordpress.com/tag/%E4%BA%A4%E5%A4%A7%E4%BF%AE%E8%AA%B2%E5%BF%83%E5%BE%97/)
+- [沒一村生活點滴](https://noootown.wordpress.com/category/%e4%ba%a4%e5%a4%a7%e4%bf%ae%e8%aa%b2%e5%bf%83%e5%be%97/)
+- [交大電資四年修課心得](https://medium.com/@ILeBruceWu/%E4%BA%A4%E5%A4%A7%E9%9B%BB%E8%B3%87%E5%9B%9B%E5%B9%B4%E4%BF%AE%E8%AA%B2%E5%BF%83%E5%BE%97-69af93aa4575)
+- [3ugeneYang.§ite](https://eugene87222.github.io/tags/NCTU/)
