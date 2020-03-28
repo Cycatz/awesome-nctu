@@ -2,6 +2,10 @@
 
 一個蒐集與交大相關的網站或資源的彙整清單 
 
+## 貢獻
+
+自己想加什麼就加上去
+
 ## 目錄
 
 - [入口相關](#入口相關)
@@ -67,7 +71,6 @@
 - [交大學生議會](https://www.facebook.com/NCTUSC)
 - [靠北交大](https://www.facebook.com/grumbleNCTU/)
 - [靠北交大2.0](https://www.facebook.com/xNCTU/)
-- [清交二手大拍賣[https://www.facebook.com/groups/817620721658179]
 - [NCTU_TALK bbs看板](https://www.ptt.cc/bbs/NCTU_TALK/index.html)
 - [NCTU_TEACHER bbs看板](https://www.ptt.cc/bbs/NCTU-Teacher/index.html)
 
