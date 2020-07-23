@@ -76,6 +76,7 @@
 ## 工具服務相關
 - [NCTU.ME 免費網域服務](https://nctu.me/)
 - [E3 dump](https://github.com/mlouielu/e3dump)
+- [NCTU Moodle telegram bot](https://github.com/theblackcat102/moodle_notification)
 
 ## 系所相關
 ### 資訊工程學系
