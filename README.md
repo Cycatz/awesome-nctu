@@ -30,8 +30,8 @@
 - [學生請假系統](https://stuoffcourse.nctu.edu.tw/)
 - [課程時間表](https://timetable.nctu.edu.tw/)
 - [科系必修科目表](https://academic.nctu.edu.tw/chcourse/class03.aspx?ftype=3)
-- [交大OCW](https://ocw.nctu.edu.tw)
-- [Easy Test(全民英檢模擬測驗)](http://140.113.9.17/)
+- [交大 OCW](https://ocw.nctu.edu.tw)
+- [Easy Test (全民英檢模擬測驗)](http://140.113.9.17/)
 - [交大線上學習系統](https://dcpc.nctu.edu.tw/nctu_online/)
 
 ## 學籍成績相關
@@ -49,7 +49,7 @@
 - [校內工讀系統](https://parttime.nctu.edu.tw/)
 - [網路電話簿系統](https://ga-ephone.nctu.edu.tw/phonebook/index.php)
 - [圖書館資訊系統](https://www.lib.nctu.edu.tw)
-- [交大Google行事曆](https://www.nctu.edu.tw/nctucalendarnew)
+- [交大 Google 行事曆](https://www.nctu.edu.tw/nctucalendarnew)
 - [D2 電子郵件系統](https://d2.nctu.edu.tw/)
 
 ## 申請相關
@@ -68,7 +68,7 @@
 - [交大學生聯合會](https://www.facebook.com/NCTUStudentUnion/)
 - [交大學生議會](https://www.facebook.com/NCTUSC)
 - [靠北交大](https://www.facebook.com/grumbleNCTU/)
-- [靠北交大2.0](https://www.facebook.com/xNCTU/)
+- [靠北交大 2.0](https://www.facebook.com/xNCTU/)
 - [清交二手大拍賣](https://www.facebook.com/groups/817620721658179)
 - [NCTU_TALK bbs看板](https://www.ptt.cc/bbs/NCTU_TALK/index.html)
 - [NCTU_TEACHER bbs看板](https://www.ptt.cc/bbs/NCTU-Teacher/index.html)
@@ -85,9 +85,9 @@
 - [資工系計中 NCTU CSCC](https://cscc.cs.nctu.edu.tw/)
 - [交大資工 Git 託管系統](https://git.cs.nctu.edu.tw/users/sign_in) 
 - [考古題系統](https://oldexam.csunion.nctu.me)
-- [考古題系統new](https://pastexam.csunion.nctu.me/)
+- [考古題系統 new](https://pastexam.csunion.nctu.me/)
 - [Formosa OJ](https://oj.nctu.me/)
-- [程式檢定CPE](http://gpe3.acm-icpc.tw/gpelogin.php)
+- [程式檢定 CPE](http://gpe3.acm-icpc.tw/gpelogin.php)
 - [交大資工系學會](https://www.facebook.com/nctucs.assoc/)
 - [交大資工粉絲團](https://www.facebook.com/csnctu/)
 - [nctucs.net DNS](https://www.nctucs.net/)
