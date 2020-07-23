@@ -83,6 +83,8 @@
 - [NCTU CS Course](https://hackmd.io/@calee/ByOm-sFue?type=view)
 - [資夢](https://shaform.com/csdream/)
 - [資工系計中 NCTU CSCC](https://cscc.cs.nctu.edu.tw/)
+- [交大資工 Git 託管系統](https://git.cs.nctu.edu.tw/users/sign_in) 
+- [資工系計中 NCTU CSCC](https://cscc.cs.nctu.edu.tw/)
 - [考古題系統](https://oldexam.csunion.nctu.me)
 - [考古題系統new](https://pastexam.csunion.nctu.me/)
 - [Formosa OJ](https://oj.nctu.me/)
