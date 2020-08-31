@@ -95,7 +95,7 @@
 
 #### 課程心得
 
-- [空架子](https://kaiiiz.wordpress.com/tag/%E4%BA%A4%E5%A4%A7%E4%BF%AE%E8%AA%B2%E5%BF%83%E5%BE%97/)
+- [空架子](https://kaiiiz.github.io/life/)
 - [沒一村生活點滴](https://noootown.wordpress.com/category/%e4%ba%a4%e5%a4%a7%e4%bf%ae%e8%aa%b2%e5%bf%83%e5%be%97/)
 - [交大電資四年修課心得](https://medium.com/@ILeBruceWu/%E4%BA%A4%E5%A4%A7%E9%9B%BB%E8%B3%87%E5%9B%9B%E5%B9%B4%E4%BF%AE%E8%AA%B2%E5%BF%83%E5%BE%97-69af93aa4575)
 - [3ugeneYang.§ite](https://eugene87222.github.io/tags/NCTU/)
