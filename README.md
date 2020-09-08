@@ -29,18 +29,18 @@
 - [課程時間表](https://timetable.nctu.edu.tw/)
 - [科系必修科目表](https://academic.nctu.edu.tw/chcourse/class03.aspx?ftype=3)
 - [交大 OCW](https://ocw.nctu.edu.tw)
-- [Easy Test (全民英檢模擬測驗)](http://140.113.9.17/)
 - [交大線上學習系統](https://dcpc.nctu.edu.tw/nctu_online/)
+- [Easy Test (全民英檢模擬測驗)](http://140.113.9.17/)
 
 ### 排課選課相關
 
 - [NCTU+](https://plus.nctu.edu.tw/)
-- [網路選課系統](https://course.nctu.edu.tw/)
 - [NCTUwU 交大選課模擬器](https://uwu.nctu.moe/)
 - [Nice Course To U](https://solrz.github.io/nice-course-to-u/)
-- [交大個人助理](https://course.nctu.xyz/)
 - [NCTU Timetable+](https://timetable.csy54.tw/)
+- [交大個人助理](https://course.nctu.xyz/)
 - [交大預排課表小工具](https://lys0829.github.io/NCTUPreTimetable/)
+- [網路選課系統](https://course.nctu.edu.tw/)
 - [暑修選課系統](https://summercourse.nctu.edu.tw/)
 
 ## 學籍成績相關
