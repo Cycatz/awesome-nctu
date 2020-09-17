@@ -86,6 +86,7 @@
 - [NCTU.ME 免費網域服務](https://nctu.me/)
 - [E3 dump](https://github.com/mlouielu/e3dump)
 - [NCTU Moodle telegram bot](https://github.com/theblackcat102/moodle_notification)
+- [漢堡王優惠券](https://www.burgerking.com.tw/coupon.php
 
 ## 系所相關
 ### 資訊工程學系
